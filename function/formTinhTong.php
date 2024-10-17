@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
     <body>
+    <div><a href=" https://github.com/bnuochthithuy/git_php/blob/main/formTinhTong.php ">function</a></div>
     <form action="formTinhTong.php" class="frm" id="form_sum" method="post">
             <h1> BẢNG ĐIỂM CỦA EM </h1>
             <div class="input">Semester1: <input type="number" name="number1"><br></div>

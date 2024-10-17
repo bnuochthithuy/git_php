@@ -6,16 +6,20 @@
     <title>Document</title>
 </head>
 <style>
-    .demo{
-        color:white;
-        background-color: red;
-        display: block;
-        width: 10%;
+    .square{
+        width: 30px;
+        height: 30px;
+        background-color:red;
+        display: inline-flex;
     }
 </style>
 <body>
     <?php
-        echo"<p class='demo'></d>hello thuy";
+    for ($i=0; $i<=10; $i++){
+        for($j=0; $j<=5; $j++){
+        echo"<div class='square'></div>,";
+        }
+    }
     ?>
 </body>
 </html>
