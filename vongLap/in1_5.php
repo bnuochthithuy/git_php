@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <div> <a href="https://github.com/bnuochthithuy/git_php/tree/main/function"></a></div>
     <?php
         $i=0;
         while($i<10){
