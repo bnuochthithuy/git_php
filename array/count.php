@@ -21,3 +21,7 @@
 ?>
 </body>
 </html>
+<!-- tổ chức một mảng có tìm kiếm (filter), thêm ,sửa xóa,  
+ tạo một $product=[[id =>1, ten =>"thuy", age=> "12 ],
+                    [id =>1, ten =>"thuy", age=> "12 ]]-->
+                    
